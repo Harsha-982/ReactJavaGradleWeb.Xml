@@ -18,9 +18,19 @@ jobs:
       with:
         java-version: '11'
         distribution: 'temurin'
-    - name: Install Dependencies
+
+    - name: Cache node modules
+      uses: actions/cache@v2
+      with:
+       # npm cache files are stored in `~/.npm` on ubuntu-latest
+        path: ~/.npm
+        key: ${{ runner.os }}-build-cache-node-modules
+        restore-keys: |
+          ${{ runner.os }}-build-cache-node-modules
+
+    - name : Install Dependencies for npm
       run: |
-#        working-directory: ./src/main/my-app
+        working-directory: ./src/main/my-app
         npm ci
     - name: Build with Gradle
       uses: gradle/gradle-build-action@v2

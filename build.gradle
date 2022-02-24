@@ -3,7 +3,7 @@ plugins {
     id 'application'
     id 'com.github.johnrengelman.shadow' version '5.1.0'
 }
-task npmInstall(type: Exec) {
+task npmBuild(type: Exec) {
     workingDir 'src/main/my-app'
     executable 'npm'
     args = ['run', 'build']

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ReactJavaGradleWeb.Xml:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1839a4f5-0a02-4819-b459-855065dfa8fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Jetty/jettyGradleWeb.xml4.0/Validations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jetty/jettyGradleWeb.xml4.0/src/main/web/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jetty/jettyGradleWeb.xml4.0/src/main/web/dashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jetty/jettyGradleWeb.xml4.0/usecontext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jetty/jettyGradleWeb.xml4.0/usestate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/reactComponents/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/reactComponents/Dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/reactComponents/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/reactComponents/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/reactComponents/Nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/reactComponents/Signup.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ReactJavaGradleWeb.Xml" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ReactJavaGradleWeb.Xml" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ReactJavaGradleWeb.Xml" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ReactJavaGradleWeb.Xml" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ReactJavaGradleWeb.Xml" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="24rzKZe1DlkXUabDlh7OppXuVU3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="harsha.togaru@anywhere.co" />
+    <property name="ACTIVE_CLOUD_PROJECT_ID" value="awcore-practice-gcp" />
+    <property name="ACTIVE_CLOUD_PROJECT_NAME" value="Awcore-practice-gcp" />
+    <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="945818800022" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="reactjavagradleweb.xml" />
+    <property name="LombokPluginIS_LOMBOK_JPS_FIX_ENABLED" value="false" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20220223_0003" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.17931035" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/my-app/src/reactComponents" />
+      <recent name="$PROJECT_DIR$/src/main/my-app/src" />
+      <recent name="$PROJECT_DIR$/src/main/ui" />
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/my-app/src" />
+      <recent name="$PROJECT_DIR$/web/WEB-INF" />
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.ReactJavaGradleWeb.Xml [myScript]">
+    <configuration name="ReactJavaGradleWeb.Xml [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReactJavaGradleWeb.Xml [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReactJavaGradleWeb.Xml [myScript]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="myScript" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReactJavaGradleWeb.Xml [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ReactJavaGradleWeb.Xml/web/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="gcp-app-engine-deploy" factoryName="Google App Engine Deployment" server-name="Google App Engine">
+      <deployment type="filesystem-war-jar-module" project="awcore-practice-gcp" version="auto">
+        <settings cloudProjectName="awcore-practice-gcp" environment="APP_ENGINE_FLEX" googleUsername="harsha.togaru@anywhere.co" moduleName="ReactJavaGradleWeb.Xml" stagedArtifactName="" userSpecifiedArtifactPath="$PROJECT_DIR$/build/libs/ReactJavaGradleWeb.Xml-1.0-SNAPSHOT-all.jar" version="" />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Google App Engine Deployment.Unnamed" />
+      <item itemvalue="Gradle.ReactJavaGradleWeb.Xml [build]" />
+      <item itemvalue="Gradle.ReactJavaGradleWeb.Xml [clean]" />
+      <item itemvalue="Gradle.ReactJavaGradleWeb.Xml [run]" />
+      <item itemvalue="Gradle.ReactJavaGradleWeb.Xml [myScript]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ReactJavaGradleWeb.Xml [myScript]" />
+        <item itemvalue="Gradle.ReactJavaGradleWeb.Xml [build]" />
+        <item itemvalue="Gradle.ReactJavaGradleWeb.Xml [clean]" />
+        <item itemvalue="Gradle.ReactJavaGradleWeb.Xml [run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.27047145" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Google App Engine" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1839a4f5-0a02-4819-b459-855065dfa8fa" name="Default Changelist" comment="" />
+      <created>1644403432298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644403432298</updated>
+      <workItem from="1644403434269" duration="1984000" />
+      <workItem from="1644405705630" duration="2281000" />
+      <workItem from="1644410103252" duration="714000" />
+      <workItem from="1644412726622" duration="502000" />
+      <workItem from="1644417565819" duration="1902000" />
+      <workItem from="1644472265601" duration="13514000" />
+      <workItem from="1644553757469" duration="1833000" />
+      <workItem from="1644561180698" duration="17467000" />
+      <workItem from="1644640358143" duration="6632000" />
+      <workItem from="1644729080750" duration="1001000" />
+      <workItem from="1644733457619" duration="879000" />
+      <workItem from="1644734484135" duration="402000" />
+      <workItem from="1644734933040" duration="782000" />
+      <workItem from="1644737540797" duration="73000" />
+      <workItem from="1644737652355" duration="12168000" />
+      <workItem from="1644759060116" duration="1142000" />
+      <workItem from="1644760226361" duration="413000" />
+      <workItem from="1644760675051" duration="351000" />
+      <workItem from="1644809160261" duration="921000" />
+      <workItem from="1644810100549" duration="571000" />
+      <workItem from="1644810700705" duration="4500000" />
+      <workItem from="1644845592869" duration="2221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="857" height="800" key="#Google_App_Engine_Deployment" timestamp="1644809691729">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="857" height="800" key="#Google_App_Engine_Deployment/0.0.1280.800@0.0.1280.800" timestamp="1644809691729" />
+    <state x="0" y="0" width="857" height="800" key="#Unnamed" timestamp="1644759531270">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="857" height="800" key="#Unnamed/0.0.1280.800@0.0.1280.800" timestamp="1644759531270" />
+    <state x="104" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644852777313">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1644852777313" />
+    <state x="256" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1644759557294">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="256" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1644759557294" />
+    <state x="490" y="293" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1644649554927">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="490" y="293" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.800@0.0.1280.800" timestamp="1644649554927" />
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom" timestamp="1644846583199">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1644846583199" />
+    <state width="1238" height="280" key="GridCell.Tab.0.center" timestamp="1644846583195">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="280" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1644846583195" />
+    <state width="1238" height="280" key="GridCell.Tab.0.left" timestamp="1644846583193">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="280" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1644846583193" />
+    <state width="1238" height="280" key="GridCell.Tab.0.right" timestamp="1644846583197">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="280" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1644846583197" />
+    <state x="228" y="147" key="IDE.errors.dialog" timestamp="1644809583531">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="228" y="147" key="IDE.errors.dialog/0.0.1280.800@0.0.1280.800" timestamp="1644809583531" />
+    <state x="128" y="0" key="SettingsEditor" timestamp="1644846539053">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1644846539053" />
+    <state x="403" y="248" key="cloudConfig.SelfSettingsDialog" timestamp="1644810479159">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="403" y="248" key="cloudConfig.SelfSettingsDialog/0.0.1280.800@0.0.1280.800" timestamp="1644810479159" />
+    <state x="317" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1644845591696">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="317" y="205" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1644845591696" />
+    <state x="317" y="205" key="com.intellij.ide.util.TipDialog/0.25.1280.703@0.25.1280.703" timestamp="1644640360761" />
+  </component>
+</project>

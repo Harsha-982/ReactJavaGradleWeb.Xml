@@ -18,6 +18,10 @@ jobs:
       with:
         java-version: '11'
         distribution: 'temurin'
+    - name: Install Dependencies
+      run: |
+#        working-directory: ./src/main/my-app
+        npm ci
     - name: Build with Gradle
       uses: gradle/gradle-build-action@v2
       with:

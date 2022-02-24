@@ -30,8 +30,9 @@ jobs:
 
     - name : Install Dependencies for npm
       run: |
-        working-directory: ./src/main/my-app
         npm ci
+      working-directory: ./src/main/my-app
+
     - name: Build with Gradle
       uses: gradle/gradle-build-action@v2
       with:
